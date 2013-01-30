@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='us-ascii'?>
+
+<!--  my reality xml-base  -->
+<!--///////////////////////////////////////////////////////////////////////////// -->
+
+<reality
+    title="My Reality - Phantasaish!!???   ;o)"
+    datestarted="January 28, 2013"
+    dateedited="January 28, 2013"
+    author="Steve"
+    >
+
+    <!-- Units -->
+    <!--///////////////////////////////////////////////////////////////////////////// -->
+
+    <unit>
+        <name>Ghoul</name>
+        <shortdesc>A ghoul is a (folkloric) monster associated with graveyards and consuming human flesh, often classified as undead. In fiction, these creatures dwell in cemeteries and other uninhabited places.</shortdesc>
+        <desc>Ghouls are undead that haunt graveyards and eat corpses. Legends hold that the first ghouls were either cannibalistic humans whose unnatural hunger dragged them back from death or humans who in life fed on the rotting remains of their kin and died (and were reborn) from the foul disease—the true source of these undead scavengers is unclear.<br/>Ghouls lurk on the edges of civilization (in or near cemeteries or in city sewers) where they can find ample supplies of their favorite food. Though they prefer rotting bodies and often bury their victims for a while to improve their taste, they eat fresh kills if they are hungry enough. Though most surface ghouls live primitively, rumors speak of ghoul cities deep underground led by priests who worship ancient cruel gods or strange demon lords of hunger. These “civilized” ghouls are no less horrific in their eating habits, and in fact the concept of a well-laid ghoul banquet table is perhaps even more horrifying than the concept of taking a meal fresh from the coffin.</desc>
+        <cohesion>
+            <group percent="120">undead</group>
+            <group percent="50">adventurers</group>
+            <group percent="10">retailers</group>
+            <group percent="75">rest-arounders</group>
+        <cohesion/>
+        <ability>slay</ability>
+        <ability>confound</ability>
+        <ability>physical fight</ability>
+        <role>bolsterer</role>
+        <role>scout</role>
+        <role>figurer-outer</role>
+    </unit>
+
+    <unit>
+    </unit>
+           
+</reality>
